@@ -48,5 +48,16 @@ categories:
 
 
 
+## 海边的曼彻斯特(2016)
+
+
+![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/zhaoolee_images000002/7bd9936e258e39eb5312fe74e271caa2.png)
+
+
+
+豆瓣链接: https://movie.douban.com/subject/25980443/
+
+
+资源：magnet:?xt=urn:btih:8b7a2a08e1ca155037da89d3070f65a4a8fe4ba5
 
 
